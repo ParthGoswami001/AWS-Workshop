@@ -1,4 +1,4 @@
-## Lab 3 : Install the Apache web server in EC2 instance and create a golden image from it
+## exerceise2 : Install the Apache web server in EC2 instance and create a golden image from it
 
 - Launch an Amazon Linux EC2 Instance and SSH into it like we did in Lab 1 
 
